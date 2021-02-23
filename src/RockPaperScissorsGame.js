@@ -3,6 +3,9 @@ import rock from "./images/rock.jpg";
 import paper from "./images/paper.jpg";
 import scissors from "./images/scissor.jpg";
 
+//TODO:
+// Go over class answer and compare so this works better
+
 class RockPaperScissorsGame extends Component {
   computerOutput = "";
 
