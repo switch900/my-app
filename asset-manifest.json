@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "//switch900.github.io/my-app/static/css/main.7647a5af.chunk.css",
+    "main.css": "//switch900.github.io/my-app/static/css/main.002892c4.chunk.css",
     "main.js": "//switch900.github.io/my-app/static/js/main.58059966.chunk.js",
     "main.js.map": "//switch900.github.io/my-app/static/js/main.58059966.chunk.js.map",
     "runtime-main.js": "//switch900.github.io/my-app/static/js/runtime-main.cf5239f8.js",
@@ -12,7 +12,7 @@
     "static/js/3.7e7c6ada.chunk.js.map": "//switch900.github.io/my-app/static/js/3.7e7c6ada.chunk.js.map",
     "index.html": "//switch900.github.io/my-app/index.html",
     "static/css/2.150d169a.chunk.css.map": "//switch900.github.io/my-app/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.7647a5af.chunk.css.map": "//switch900.github.io/my-app/static/css/main.7647a5af.chunk.css.map",
+    "static/css/main.002892c4.chunk.css.map": "//switch900.github.io/my-app/static/css/main.002892c4.chunk.css.map",
     "static/js/2.7a293da9.chunk.js.LICENSE.txt": "//switch900.github.io/my-app/static/js/2.7a293da9.chunk.js.LICENSE.txt",
     "static/media/index.css": "//switch900.github.io/my-app/static/media/bookListBanner.7bd06cbf.jpg",
     "static/media/paper.30601044.jpg": "//switch900.github.io/my-app/static/media/paper.30601044.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.cf5239f8.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7a293da9.chunk.js",
-    "static/css/main.7647a5af.chunk.css",
+    "static/css/main.002892c4.chunk.css",
     "static/js/main.58059966.chunk.js"
   ]
 }
