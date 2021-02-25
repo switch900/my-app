@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/my-app/static/js/main.a31a76ce.chunk.js",
-    "main.js.map": "/my-app/static/js/main.a31a76ce.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.6f5ba6f9.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.6f5ba6f9.js.map",
-    "static/js/2.db39837d.chunk.js": "/my-app/static/js/2.db39837d.chunk.js",
-    "static/js/2.db39837d.chunk.js.map": "/my-app/static/js/2.db39837d.chunk.js.map",
-    "static/js/3.4a34e60f.chunk.js": "/my-app/static/js/3.4a34e60f.chunk.js",
-    "static/js/3.4a34e60f.chunk.js.map": "/my-app/static/js/3.4a34e60f.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/my-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/my-app/static/js/2.db39837d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+    "main.css": "//switch900.github.io/switch900/static/css/main.b9a89ffc.chunk.css",
+    "main.js": "//switch900.github.io/switch900/static/js/main.58059966.chunk.js",
+    "main.js.map": "//switch900.github.io/switch900/static/js/main.58059966.chunk.js.map",
+    "runtime-main.js": "//switch900.github.io/switch900/static/js/runtime-main.60663da0.js",
+    "runtime-main.js.map": "//switch900.github.io/switch900/static/js/runtime-main.60663da0.js.map",
+    "static/css/2.150d169a.chunk.css": "//switch900.github.io/switch900/static/css/2.150d169a.chunk.css",
+    "static/js/2.7a293da9.chunk.js": "//switch900.github.io/switch900/static/js/2.7a293da9.chunk.js",
+    "static/js/2.7a293da9.chunk.js.map": "//switch900.github.io/switch900/static/js/2.7a293da9.chunk.js.map",
+    "static/js/3.7e7c6ada.chunk.js": "//switch900.github.io/switch900/static/js/3.7e7c6ada.chunk.js",
+    "static/js/3.7e7c6ada.chunk.js.map": "//switch900.github.io/switch900/static/js/3.7e7c6ada.chunk.js.map",
+    "index.html": "//switch900.github.io/switch900/index.html",
+    "static/css/2.150d169a.chunk.css.map": "//switch900.github.io/switch900/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b9a89ffc.chunk.css.map": "//switch900.github.io/switch900/static/css/main.b9a89ffc.chunk.css.map",
+    "static/js/2.7a293da9.chunk.js.LICENSE.txt": "//switch900.github.io/switch900/static/js/2.7a293da9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "//switch900.github.io/switch900/static/media/bookListBanner.7bd06cbf.jpg",
+    "static/media/paper.30601044.jpg": "//switch900.github.io/switch900/static/media/paper.30601044.jpg",
+    "static/media/rock.8cbd921c.jpg": "//switch900.github.io/switch900/static/media/rock.8cbd921c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f5ba6f9.js",
-    "static/js/2.db39837d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a31a76ce.chunk.js"
+    "static/js/runtime-main.60663da0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7a293da9.chunk.js",
+    "static/css/main.b9a89ffc.chunk.css",
+    "static/js/main.58059966.chunk.js"
   ]
 }
