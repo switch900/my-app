@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//switch900.github.io/my-app/static/css/main.002892c4.chunk.css",
-    "main.js": "//switch900.github.io/my-app/static/js/main.e732cdbf.chunk.js",
-    "main.js.map": "//switch900.github.io/my-app/static/js/main.e732cdbf.chunk.js.map",
+    "main.js": "//switch900.github.io/my-app/static/js/main.d3e005f9.chunk.js",
+    "main.js.map": "//switch900.github.io/my-app/static/js/main.d3e005f9.chunk.js.map",
     "runtime-main.js": "//switch900.github.io/my-app/static/js/runtime-main.cf5239f8.js",
     "runtime-main.js.map": "//switch900.github.io/my-app/static/js/runtime-main.cf5239f8.js.map",
     "static/css/2.150d169a.chunk.css": "//switch900.github.io/my-app/static/css/2.150d169a.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7a293da9.chunk.js",
     "static/css/main.002892c4.chunk.css",
-    "static/js/main.e732cdbf.chunk.js"
+    "static/js/main.d3e005f9.chunk.js"
   ]
 }
